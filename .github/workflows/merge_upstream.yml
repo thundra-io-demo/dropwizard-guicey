@@ -6,11 +6,11 @@ on:
   workflow_dispatch:
 
 env:
-  UPSTREAM: "https://github.com/qoomon/maven-git-versioning-extension"
+  UPSTREAM: "https://github.com/xvik/dropwizard-guicey"
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   UPSTREAM_BRANCH_NAME: master
   BRANCH_NAME: auto-upstream-merge
-  ORIGIN_PATH: thundra-io-demo/maven-git-versioning-extension
+  ORIGIN_PATH: thundra-io-demo/dropwizard-guicey
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
   GITHUB_USERNAME: thundra-io-demo
 
