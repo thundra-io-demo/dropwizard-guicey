@@ -1,5 +1,6 @@
 
-## Foresight.io Demo Projects - EO 
+## Foresight.io Demo Projects - Dropwizard-Guicey
+
 
 ---
 ![Success Details](http://foresight.service.thundra.us/public/api/v1/badge/success?repoId=db27cd8c-72e1-4489-9efe-a59d7347a575)
