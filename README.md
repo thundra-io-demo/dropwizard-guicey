@@ -1,5 +1,5 @@
 
-## Foresight.io Demo Projects - Dropwizard-Guicey
+## runforesight.com Demo Projects - Dropwizard-Guicey
 
 
 <a href="https://foresight.thundra.live/repositories/github/runforesight-demo/dropwizard-guicey/workflow-runs">
