@@ -50,7 +50,7 @@ jobs:
       
       - name: Analyze Test and/or Coverage Results
         if: always()
-        uses: thundra-io/foresight-test-kit-action@v1
+        uses: runforesight/foresight-test-kit-action@v1
         with:
           api_key: ${{ secrets.FORESIGHT_API_KEY }}
           test_framework: junit
